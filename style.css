@@ -94,6 +94,7 @@ button:hover {
         background-image: url(./assets/img-mobile.jpg);
         background-position: center;
         background-size: cover;
+        background-size: 160%;
     }
 
     h1 {
